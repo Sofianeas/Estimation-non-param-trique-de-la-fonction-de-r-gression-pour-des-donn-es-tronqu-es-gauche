@@ -1,1 +1,1 @@
-# Estimation-non-param-trique-de-la-fonction-de-r-gression-pour-des-donn-es-tronqu-es-gauche
+# Left truncated data
